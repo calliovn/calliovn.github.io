@@ -112,11 +112,6 @@ Dưới đây là roadmap giúp bạn hiểu toàn cảnh cuộc cách mạng n�
 
 ## 🎧 Collections
 
-  * Phonk April 2026 Collection  
-    https://open.spotify.com/playlist/7Aojt13l0cPf34e66wzRGM  
+  * [Phonk April 2026 Collection](https://open.spotify.com/playlist/7Aojt13l0cPf34e66wzRGM
 
-  * The Secret of Us  
-    https://open.spotify.com/playlist/1zlDuc1v9mLxraZBWRNSIV
-
-    
-https://open.spotify.com/embed/episode/5SK4ieFR0fii0NN7HRlaZ6
+  * [The Secret of Us](https://open.spotify.com/playlist/1zlDuc1v9mLxraZBWRNSIV)
