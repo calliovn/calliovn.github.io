@@ -1,4 +1,4 @@
-# 🎙️ Chưng Cất Tương Lai: Kỷ Nguyên Agentic AI 2026
+# 🎙️ Kỷ Nguyên Agentic AI 2026
 
 Năm 2026 đánh dấu một bước ngoặt lớn: thế giới không còn vận hành bởi các “mô hình trả lời” đơn thuần, mà chuyển sang “hệ thống hành động tự chủ”.
 
