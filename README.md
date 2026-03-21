@@ -17,7 +17,7 @@ Dưới đây là roadmap giúp bạn hiểu toàn cảnh cuộc cách mạng n�
   * Bước chuyển từ LLM sang hệ thống điều phối tự chủ.
   * Cuộc chiến kiểm soát hạ tầng AI của các ông lớn.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7aVFztHyjRR1xcjnh25G7z" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1JJ58OmwuOUxAAq5zVExcR" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 -----
 
@@ -35,7 +35,7 @@ Dưới đây là roadmap giúp bạn hiểu toàn cảnh cuộc cách mạng n�
   * Khái niệm “Agent Computer” và hệ sinh thái open-source.
   * Lỗ hổng 0-click & cách phòng thủ bằng RAK / NemoClaw.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5SK4ieFR0fii0NN7HRlaZ6" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/32vbkk3rWZKDNEeA9xVxzo" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 -----
 
@@ -57,7 +57,7 @@ Dưới đây là roadmap giúp bạn hiểu toàn cảnh cuộc cách mạng n�
   * AI gặp “thế giới thật” → chaos.
   * Khoảng cách giữa mô phỏng và thực tế vận hành.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/32vbkk3rWZKDNEeA9xVxzo" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5SK4ieFR0fii0NN7HRlaZ6" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 -----
 
@@ -66,7 +66,7 @@ Dưới đây là roadmap giúp bạn hiểu toàn cảnh cuộc cách mạng n�
   * AI tự tìm khách, deal giá, tối ưu occupancy.
   * Booking truyền thống bắt đầu “lỗi thời”.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1T0b75ovPzn5At437xoMGp" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5q5j9mXFTaDDwXpPqzXi4o" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 -----
 
@@ -75,7 +75,7 @@ Dưới đây là roadmap giúp bạn hiểu toàn cảnh cuộc cách mạng n�
   * AI xử lý phân tích & đàm phán.
   * Rủi ro deepfake identity qua metadata.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5q5j9mXFTaDDwXpPqzXi4o" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5hCPCS7uiCqJ2m684XGjxa" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 -----
 
@@ -88,7 +88,7 @@ Dưới đây là roadmap giúp bạn hiểu toàn cảnh cuộc cách mạng n�
   * “Rác AI” và tác động lên trẻ em.
   * Làm sao giữ quyền kiểm soát trước thuật toán.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1JJ58OmwuOUxAAq5zVExcR" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0TtcYUqnWC0yt5dj1PPX4P" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 -----
 
@@ -97,7 +97,7 @@ Dưới đây là roadmap giúp bạn hiểu toàn cảnh cuộc cách mạng n�
   * AI tham gia vào quyết định công.
   * Ai chịu trách nhiệm khi AI sai? 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0TtcYUqnWC0yt5dj1PPX4P" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7aVFztHyjRR1xcjnh25G7z" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 -----
 
@@ -106,7 +106,7 @@ Dưới đây là roadmap giúp bạn hiểu toàn cảnh cuộc cách mạng n�
   * AI có thể “hiểu luật” đến đâu? 
   * Ranh giới giữa hỗ trợ và thay thế con người.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5hCPCS7uiCqJ2m684XGjxa" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1T0b75ovPzn5At437xoMGp" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 -----
 
