@@ -117,5 +117,3 @@ Dưới đây là roadmap giúp bạn hiểu toàn cảnh cuộc cách mạng n�
   * [The Secret of Us](https://open.spotify.com/playlist/1zlDuc1v9mLxraZBWRNSIV)
 ## Contact:
  * Add: PP8H+X8H, Nguyễn Lương Bằng, Khu đô thị Phú Mỹ Hưng, Quận 7, Hồ Chí Minh, Vietnam
-
- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3920.220705279164!2d106.72577601043503!3d10.717453060235009!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317525005185cc8d%3A0x17a7ac1f9fae4cb6!2sCALL.IO.VN!5e0!3m2!1sen!2s!4v1774106115178!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
