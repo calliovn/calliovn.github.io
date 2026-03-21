@@ -1,6 +1,3 @@
-* [Phonk April 2026 Collection](https://open.spotify.com/playlist/7Aojt13l0cPf34e66wzRGM)
-* [The Secret of Us](https://open.spotify.com/playlist/1zlDuc1v9mLxraZBWRNSIV)
-
 # 🎙️ Chưng Cất Tương Lai: Kỷ Nguyên Agentic AI 2026
 
 Năm 2026 đánh dấu một bước ngoặt lịch sử: thế giới chuyển dịch từ các "mô hình ngôn ngữ" thụ động sang "kiến trúc điều phối" tự chủ. Chúng ta không còn ở kỷ nguyên của những chatbot chỉ biết trả lời câu hỏi; chúng ta đang bước vào kỷ nguyên của các AI Agent (Tác nhân AI) — những hệ thống có khả năng tự lập kế hoạch, tự thực thi và tự ra quyết định.
@@ -50,3 +47,8 @@ Dưới đây là lộ trình giúp bạn hiểu rõ cuộc cách mạng này đ
     * Bài toán về trách nhiệm khi hệ thống AI mắc sai lầm ảnh hưởng đến hàng triệu người.
 * **[Khi Trí Tuệ Nhân Tạo Tham Gia Tố Tụng: Đặc Quyền Miễn Trừ & Chuẩn Mực Đạo Đức](https://open.spotify.com/episode/5hCPCS7uiCqJ2m684XGjxa)**
     * Cơ sở lý luận về trách nhiệm pháp lý của AI và ranh giới với các "ảo giác pháp lý" .
+
+## Collections
+
+* [Phonk April 2026 Collection](https://open.spotify.com/playlist/7Aojt13l0cPf34e66wzRGM)
+* [The Secret of Us](https://open.spotify.com/playlist/1zlDuc1v9mLxraZBWRNSIV)
